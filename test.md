@@ -7,7 +7,6 @@
 |1 | 2| 4|
 | 1| 2|3 |
 
-<img src="https://pic.qqtn.com/up/2019-9/15690311636958128.jpg"/>
 
 hhhhhiihhh
 
