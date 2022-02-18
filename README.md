@@ -19,6 +19,7 @@ hhhhh
     <a href="/doc/ios/union/union_native_express">信息流/详情页插入/视频贴片广告</a>
     <a href="/doc/ios/union/union_native2_0">开发者自渲染</a>
     <a href="/doc/ios/union/union_bidding">实时竞价</a>
+    <a href="/doc/ios/union/union_mediation_access"><h4>流量聚合</h4></a>
 
     <h4>其他内容</h4>
     <a href="/doc/ios/union/union_personal_recommend">关闭个性化推荐广告 </a>
