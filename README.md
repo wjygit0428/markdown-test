@@ -38,3 +38,5 @@ hhhhh
     <a href="https://e.qq.com/dev/help_detail.html?cid=2004&pid=5795" target="_blank">开发者个人信息保护合规指引</a><br>
     <a href="/doc/ios/union/union_private_data_guide">隐私信息选传 </a>
 </div>
+
+- [x] 表示已经完成的任务
