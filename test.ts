@@ -5,3 +5,17 @@ function add(a, b) {
 }
 
 result = add(1, 2); // 缺少分号
+
+function calculateTotal(items) {
+  let total = 0;
+
+  for (let i = 0; i < items.length; i++) {
+    total += items[i].price * items[i].quantity;
+  }
+
+  if (total > 100) {
+    console.log("警告：总价超过100元！");
+  }
+
+  return total;
+}
