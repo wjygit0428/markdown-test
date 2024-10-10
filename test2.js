@@ -12,3 +12,9 @@ var e = [function foo() {
 var foo = { "bar": "This is a bar.", "baz": { "qux": "This is a qux" }, "difficult": "to read" };
 
 typeof foo === "strnig"
+
+
+if (!key in object) {
+    // operator precedence makes it equivalent to (!key) in object
+    // and type conversion makes it equivalent to (key ? "false" : "true") in object
+}
