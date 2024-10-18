@@ -1,4 +1,4 @@
-def greet(name):
+def greet(name: str) -> None:
     print(f"Hello, {name}!")
 
 def calculate_sum(a, b):
