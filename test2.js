@@ -18,3 +18,10 @@ if (!key in object) {
     // operator precedence makes it equivalent to (!key) in object
     // and type conversion makes it equivalent to (key ? "false" : "true") in object
 }
+
+var d2 = [1,
+    2];
+var foo = { "bar": "This is a bar.", "baz": { "qux": "This is a qux" }, "difficult": "to read" };
+if (d2 == foo) {
+    // do something
+}
