@@ -7,6 +7,7 @@ def calculate_sum(a, b):
 def main():
     user_name = input("Please enter your name: ")
     greet(user_name)
+
     
     num1 = float(input("Enter the first number: "))
     num2 = float(input("Enter the second number: "))
