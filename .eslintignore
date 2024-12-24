@@ -1,0 +1,10 @@
+node_modules/*
+.*.js
+*.config.js
+config/*
+tmp/*
+dist/*
+.husky/*
+public/*
+scripts/*
+package.json
